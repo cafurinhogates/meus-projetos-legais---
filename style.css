@@ -1,0 +1,46 @@
+body{ 
+    background-color:#000;
+    margin:10px 10px auto;
+
+}
+.content-header h1{
+    background-image: url("/background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Tajawal', sans-serif;
+    color:white;
+    padding-top:50px;
+    height: 100px;
+    text-align: center;
+    font-size: 50px;
+    background-color:green;
+    text-shadow: black 1px 6px;
+    border-radius: 3px 3px 3px 3px;
+}
+.content-header a{
+    text-decoration: none;
+    color:white;
+}
+.content-section1{
+    background-image: url('/background.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:30px;
+    border-radius: 3px 3px 3px 3px;
+    height: 300px;
+    margin-top:30px;
+    background-color:white;
+
+}
+.display1, .display2, .display3,.display4{
+    font-family: 'Tajal', sans-serif;
+    margin-left: 300px;
+    padding-top: 5px;
+    display: block;
+}
+.button{
+    margin-left: 600px;
+
+}
+.display1{
+}
